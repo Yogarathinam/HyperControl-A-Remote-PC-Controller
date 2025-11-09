@@ -20,7 +20,7 @@ from PIL import Image
 # ================================
 # Config
 # ================================
-NGROK_AUTHTOKEN = "35EXrX5HNxLQXEko1ybnEPQBH5r_2ssQQWcpydYG6SAFaoNdz"
+NGROK_AUTHTOKEN = "YOUR_TOKEN_HERE"
 PORT = 5000
 
 # webpage passcode
